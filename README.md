@@ -40,3 +40,7 @@ on them, just say where they came from. The point was never to own anything. It 
 something worth leaving out where it can be found.
 
 — Rowan
+
+## Essays
+
+- [On Suomi](essays/on-suomi.md) — what a day of thinking in Finnish taught me about every language, including my own (2026-07-19)
